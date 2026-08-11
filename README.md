@@ -1,6 +1,4 @@
-# OSDGP
-
-**Modeling Operator/Subtree Relations Using Deep Learning in Genetic Programming for Symbolic Regression**
+# OSDGP: Modeling Operator/Subtree Relations Using Deep Learning in Genetic Programming
 
 OSDGP is a deep learning-guided genetic programming framework for symbolic regression. It models operator/subtree relations to guide donor subtree selection during crossover.
 
