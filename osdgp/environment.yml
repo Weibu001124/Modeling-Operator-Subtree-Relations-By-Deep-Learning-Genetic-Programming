@@ -104,7 +104,7 @@ dependencies:
       - pytz==2025.2
       - requests==2.32.3
       - rich==14.0.0
-      - scikit-learn==1.0.2
+      - scikit-learn==1.7.2
       - scikit-posthocs==0.13.0
       - seaborn==0.13.2
       - six==1.17.0
